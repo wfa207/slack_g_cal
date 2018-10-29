@@ -1,0 +1,10 @@
+*~
+*.pyc
+.coverage
+*.egg-info/
+dist/
+.tox/
+.DS_Store
+*.sw*
+*auth*.json
+Dockerfile

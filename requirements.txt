@@ -1,0 +1,15 @@
+celery[redis]==4.2.1
+ejson==0.1.6
+Flask==0.12
+google-api-python-client==1.6.4
+google-auth==1.4.1
+google-auth-httplib2==0.0.2
+google-auth-oauthlib==0.1.1
+MySQL-python==1.2.5
+pyOpenSSL==17.3.0
+python-dateutil==2.7.3
+raven==6.6.0
+slackclient==1.1.2
+sqlalchemy==1.2.0
+textblob==0.15.1
+wit==5.0.0

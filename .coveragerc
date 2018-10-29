@@ -1,0 +1,6 @@
+[run]
+source=slack_g_cal/
+
+[report]
+omit=*/tests/*
+include=slack_g_cal/*.*
